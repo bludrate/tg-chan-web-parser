@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bludrate/tg-chan-web-parser/issues"
   },
-  "homepage": "https://github.com/bludrate/tg-chan-web-parser#readme"
+  "homepage": "https://github.com/bludrate/tg-chan-web-parser#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "tg-chan-kafka": "^1.0.8"
+  }
 }
